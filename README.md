@@ -8,7 +8,7 @@ To install the project dependencies, you'll need Poetry. Here's how to set up th
 
 1. Install Poetry if you haven't already:
    ```bash
-   curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python
+   pip install poetry
    ```
 
 2. Clone this repository:
